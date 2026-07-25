@@ -34,7 +34,7 @@ body{
 }
   .skyline {
   background: url("urban_skyline_in_lavender_tones.png") center / cover no-repeat;
-  width: 100%;
+  width: 1000px;
   height: 100vh;
 }
 html,
