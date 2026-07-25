@@ -30,8 +30,13 @@ body{
     radial-gradient(900px 520px at 14% 6%, rgba(109,40,217,.14), transparent 60%),
     radial-gradient(850px 540px at 86% 2%, rgba(167,139,250,.18), transparent 58%),
     linear-gradient(180deg, #fff, var(--bg-soft));
+  
 }
-
+  .skyline {
+  background: url("urban_skyline_in_lavender_tones.png") center / cover no-repeat;
+  width: 100%;
+  height: 500px;
+}
 a{ color:inherit; text-decoration:none }
 p{ color:var(--muted); 
   font-size: 1.05rem;
